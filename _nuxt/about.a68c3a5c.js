@@ -1,0 +1,1 @@
+import{a as e,b as o,o as a}from"./entry.6dd13bbd.js";const t={};function s(c,r){return a(),o("h4",null,"This page has authors, who we will tell you about someday")}const l=e(t,[["render",s]]);export{l as default};
